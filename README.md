@@ -4,4 +4,4 @@
 
 Estudante de Sistemas para Internet.
 
-Alem do meus projetos pessoais, estou contribuindo com o projeto [Aglomerou?](https://ifto-palmas.github.io/aglomerou/), um aplicativo para o combate a covid-19. 
+Além do meus projetos pessoais, estou contribuindo com o projeto [Aglomerou?](https://ifto-palmas.github.io/aglomerou/), um aplicativo para o combate a covid-19. 
